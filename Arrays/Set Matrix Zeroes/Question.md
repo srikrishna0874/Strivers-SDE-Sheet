@@ -1,8 +1,8 @@
 # Set Matrix Zeroes
 
-[`Leetcode - 73`](https://leetcode.com/problems/set-matrix-zeroes/description/)
+[Leetcode - 73](https://leetcode.com/problems/set-matrix-zeroes/description/)
 
-[`GeeksForGeeks`](https://www.geeksforgeeks.org/problems/set-matrix-zeroes/1)
+[GeeksForGeeks](https://www.geeksforgeeks.org/problems/set-matrix-zeroes/1)
 
 ## Question
 
