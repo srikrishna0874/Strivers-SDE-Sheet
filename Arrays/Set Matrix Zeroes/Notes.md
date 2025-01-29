@@ -36,6 +36,11 @@ public:
 };
 ```
 
+**Time Complexity** - O(m*n)  
+**Space Complexity** - O(m*n)
+
+
+
 # Approach 2: Without Using Extra Space
 - Instead of using two separate arrays as mentioned in the previous approach, utilize the first row and first column of the given matrix.
 
@@ -82,4 +87,5 @@ public:
     }
 };
 ```
-
+**Time Complexity** - O(m*n)  
+**Space Complexity** - O(1)
